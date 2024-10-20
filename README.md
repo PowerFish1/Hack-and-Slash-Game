@@ -1,2 +1,4 @@
 # Hack-and-Slash-Game
 In this particular game project, I have ventured into unexplored territory by incorporating unique and innovative elements that set it apart from other games in the genre. Notably, I have developed a custom damage system and spawn system, showcasing my independent problem-solving capabilities. However, given my relative newness to this domain, there remains the possibility of unidentified issues or areas requiring improvement that I may not have the expertise to address. Nevertheless, this project holds a special place for me, as it demonstrates a harmonious blend of dynamic game sounds and an engaging rhythm, contributing to an immersive and captivating gameplay experience.
+
+![img1](https://github.com/PowerFish1/Hack-and-Slash-Game/blob/main/md-images/2d-b%20img-1.png)
